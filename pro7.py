@@ -1,0 +1,11 @@
+myset={"Tulasi",9,"hello",True}
+print(myset)
+print()
+myset.update([1,2,3])
+print(myset)
+print()
+myset.discard(True)
+print(myset)
+print()
+myset.add(60)
+print(myset)

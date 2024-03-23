@@ -1,0 +1,28 @@
+class carshowroom:
+    def __init_(self,sgst,cgst,insurance):
+        self.sgst=0.18
+        self.cgst=0.92
+        self.insurance=100000
+    def company(self,companyname):
+        self.company=print("hyundai","marutisuzuki")
+        while True:
+            if company==toyato:
+               print("welcome to toyato company")
+               self.company(self.model())
+               break
+            elif company==maruthi:
+                print("welcome to maruthi family")
+                self.company(self.model())
+                break
+            else:
+                print("enter valid company")
+obj=carshowroom()
+obj.company("hyundai")
+               
+                
+            
+        
+        
+        
+        
+

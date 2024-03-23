@@ -1,0 +1,10 @@
+class carshowroom():
+    def company(self,companyname):
+        print("welcome to ",carcompany)
+        List1=[["innova","SUV","MUV"],["breeza","alto","ciaz"],["bolero","scorpio","thar"]]
+        if(List[1]==companyname):
+            print("maruthi")
+        
+        
+        
+    

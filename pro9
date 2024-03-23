@@ -1,0 +1,11 @@
+def fun():
+    username=input("enter the name:")
+    password=int(input("enter the number:"))
+    n=0
+    for i in range(n):
+        if username==password:
+            print("login successfully")
+        else:
+            print("not successful")
+        i=i+1
+fun()

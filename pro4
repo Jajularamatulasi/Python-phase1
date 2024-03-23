@@ -1,0 +1,22 @@
+class carshowroom():
+    def company(self,carcompany):
+        print("welcome to",carcompany)
+        model=["maruthi","toyata","mahindra"]
+        maruthi=["innova","suv","muv"]         
+        toyata=["breeza","alto","ciaz"]
+        mahindra=["bolero","scorpio","thar"]
+    def model(self):
+        if carcompany == model:
+            print(maruthi)
+        elif carcompany == model:
+             print(toyata)
+        else:
+            print(mahindra)
+        print("select a model:")
+    
+aobj=carshowroom()
+aobj.company("mahindra")
+
+
+            
+        

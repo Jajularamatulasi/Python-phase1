@@ -1,0 +1,10 @@
+n=12467
+count=0
+while(n>0):
+    rem=n%10
+    s=rem%2
+    print(s)
+    count=count+1
+print(s)
+        
+    

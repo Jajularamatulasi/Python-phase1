@@ -1,0 +1,8 @@
+class Father:
+    def __init__(self):
+        print("Father:=iam on time")
+class child(Father):
+    def __init__(self):
+        print("child:=I will be late")
+aobj=Father()
+aobj=child()
